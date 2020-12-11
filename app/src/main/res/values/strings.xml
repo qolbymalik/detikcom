@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detik Kotlin</string>
+    <string name="txsub">Subtitle</string>
+    <string name="txtitle">Title</string>
+</resources>
